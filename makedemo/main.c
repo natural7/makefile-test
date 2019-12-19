@@ -10,6 +10,7 @@
 #include "head_a.h"
 #include "head_c.h"
 #include "mylib2.h"
+#include "head_b_1.h"
 
 int main(int argc, const char *argv[])
 {
@@ -17,5 +18,6 @@ int main(int argc, const char *argv[])
 	func_a();
 	func_c();
 	outString2("lib2 test");
+	func_b_1();
 	return 0;
 }

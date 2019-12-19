@@ -12,6 +12,6 @@
 
 void func_b_1(void)
 {
-	printf("func_b_1\n");
+	printf("func_b_1 is a diffcult thing\n");
 }
 
